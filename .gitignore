@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+kidney_env/
 
 # Spyder project settings
 .spyderproject
